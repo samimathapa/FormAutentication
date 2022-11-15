@@ -1,0 +1,9 @@
+﻿<h2>Company Portal</h2>
+<h3>This page is accessible to all members of this organization</h3>
+<h3>Welcome @User.Identity.Name</h3>
+<ul>
+    @foreach(var c in User.Claims)
+    {
+        <li>@c.Type: @c.Value</li>
+    }
+</ul>

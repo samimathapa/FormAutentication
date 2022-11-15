@@ -1,0 +1,52 @@
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\appsettings.json
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.staticwebassets.runtime.json
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.exe
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.deps.json
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.runtimeconfig.json
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.dll
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.pdb
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.RazorAssemblyInfo.cache
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.RazorAssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\scopedcss\bundle\FormAuthentication.styles.css
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\scopedcss\projectbundle\FormAuthentication.bundle.scp.css
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.dll
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\refint\FormAuthentication.dll
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.pdb
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\ref\FormAuthentication.dll
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\appsettings.Development.json
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\appsettings.json
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.staticwebassets.runtime.json
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.exe
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.deps.json
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.runtimeconfig.json
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.dll
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\bin\Debug\net6.0\FormAuthentication.pdb
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.csproj.AssemblyReference.cache
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.AssemblyInfoInputs.cache
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.AssemblyInfo.cs
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.csproj.CoreCompileInputs.cache
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.MvcApplicationPartsAssemblyInfo.cache
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.RazorAssemblyInfo.cache
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.RazorAssemblyInfo.cs
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\staticwebassets.build.json
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\staticwebassets.development.json
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\scopedcss\bundle\FormAuthentication.styles.css
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\scopedcss\projectbundle\FormAuthentication.bundle.scp.css
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.dll
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\refint\FormAuthentication.dll
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.pdb
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\FormAuthentication.genruntimeconfig.cache
+E:\ncc lab\NCC-main\exam\FormAuthentication\FormAuthentication\obj\Debug\net6.0\ref\FormAuthentication.dll
